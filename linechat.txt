@@ -1,0 +1,4 @@
+C:\Users\~Kong~\Desktop\testunclebot>venv\Scripts\activate
+
+https://github.com/Puttipong1234/Line_get_user
+pip install gunicorn
